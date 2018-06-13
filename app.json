@@ -1,7 +1,7 @@
 {
   "name": "Dialogflow webhook",
   "description": "Dialogflow webhook for healthcare bot",
-  "repository": "https://github.com/api-ai/apiai-weather-webhook-sample",
+  "repository": "https://github.com/anjali2111993/Bot",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
